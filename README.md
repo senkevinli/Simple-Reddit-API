@@ -1,4 +1,4 @@
-# Simple-Reddit-API
+# Reddit bot (?) using Reddit API
 ## Info  
 - Responds when username is mentioned with specified message. Also can make text-only posts.
 - .env file must be configured with Reddit user login credentials including client secret, client ID, username, password, and bot name 
